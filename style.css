@@ -1,5 +1,30 @@
-Div {
-  background-color: aqua;
-  height: 100px;
-  width: 100px;
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: #131a22;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  padding-bottom: 6px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 50px;
+  font-size: 18px;
+}
+#logo {
+  font-size: 40px;
+  color: #febd69;
+}
+#button {
+  background-color: #febd69;
+  width: 75px;
+  height: 25px;
+  font-size: 15px;
+}
+#Search {
+  width: 500px;
 }
